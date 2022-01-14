@@ -1,0 +1,10 @@
+<meta>
+	<info name="Venom Roleplay" description="Stolen Backend and Frontend, just a Skid Server." author="monkaMC" />
+	<script src="nexus.dll" />
+	<assembly ref="System.Configuration.ConfigurationManager.dll" />
+    	<assembly ref="System.Security.Cryptography.ProtectedData.dll" />
+    	<assembly ref="System.Security.Permissions.dll" />
+    	<assembly ref="System.Xml.XPath.XmlDocument.dll" />
+    	<assembly ref="System.Management.dll" />
+	<assembly ref="MySql.Data.dll" />
+</meta>
